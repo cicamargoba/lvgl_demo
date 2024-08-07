@@ -1,7 +1,0 @@
-/Work/Proyects/PowerMeter/PowerWatchSoftware/Sitara/firmware/littlevgl-8/lvgl/build/CMakeFiles/lvgl.dir
-/Work/Proyects/PowerMeter/PowerWatchSoftware/Sitara/firmware/littlevgl-8/lvgl/build/CMakeFiles/edit_cache.dir
-/Work/Proyects/PowerMeter/PowerWatchSoftware/Sitara/firmware/littlevgl-8/lvgl/build/CMakeFiles/rebuild_cache.dir
-/Work/Proyects/PowerMeter/PowerWatchSoftware/Sitara/firmware/littlevgl-8/lvgl/build/CMakeFiles/list_install_components.dir
-/Work/Proyects/PowerMeter/PowerWatchSoftware/Sitara/firmware/littlevgl-8/lvgl/build/CMakeFiles/install.dir
-/Work/Proyects/PowerMeter/PowerWatchSoftware/Sitara/firmware/littlevgl-8/lvgl/build/CMakeFiles/install/local.dir
-/Work/Proyects/PowerMeter/PowerWatchSoftware/Sitara/firmware/littlevgl-8/lvgl/build/CMakeFiles/install/strip.dir
