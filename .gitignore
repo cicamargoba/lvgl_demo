@@ -1,0 +1,4 @@
+*.o
+*.a
+build/
+demo_lvgl/lvgl_demo
